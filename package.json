@@ -1,0 +1,22 @@
+{
+  "name": "socialapp",
+  "version": "1.0.0",
+  "description": "A social media backend project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "api"
+  ],
+  "author": "Kumar Ankit",
+  "license": "ISC",
+  "dependencies": {
+    "date-format": "^4.0.13",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
